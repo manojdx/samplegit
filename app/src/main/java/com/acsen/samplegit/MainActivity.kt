@@ -22,7 +22,7 @@ class MainActivity : ComponentActivity() {
                     modifier = Modifier.fillMaxSize(),
                     color = MaterialTheme.colorScheme.background
                 ) {
-                    Greeting("Testing the code funny 1 pushing")
+                    Greeting("Testing the code funny 1 pushing Local")
                 }
             }
         }
