@@ -5,7 +5,7 @@ plugins {
 
 android {
     namespace = "com.acsen.samplegit"
-    compileSdk = 33
+    compileSdk = 34
 
     defaultConfig {
         applicationId = "com.acsen.samplegit"
